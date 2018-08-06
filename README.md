@@ -13,6 +13,9 @@
 ## 安卓开发工程师
 - 3年以上Android经验
 
+## 工作地点
+- 上海南京东路
+
 ## 联系方式
 - email: schen@udap.io
 - wechat: sophia886522
